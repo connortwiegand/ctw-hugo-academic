@@ -85,6 +85,6 @@
   id = "orcid"
   url = ""
   title = "ORCID"
-  icon_pack = "fab"
+  icon_pack = "ai"
   icon = "orcid"
   enable = true

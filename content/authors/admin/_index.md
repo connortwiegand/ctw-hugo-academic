@@ -57,11 +57,11 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # `ai::google-scholar` or `fas::graduation-cap`
+    icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=xKz_tl8AAAAJ
   - icon: orcid
-    icon_pack: fab
+    icon_pack: ai
     link: https://orcid.org/0009-0004-3349-3742
   - icon: github
     icon_pack: fab
