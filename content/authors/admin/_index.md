@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 5th Year Economics PhD at the University of Oregon
+role: 5th Year PhD Student --  Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,13 +22,13 @@ organizations:
     url: https://www.uoregon.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include machine learning, non-traditional time preferences, and AI's role in strategic interaction.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Time Preferences
+  - AI and Strategic Interaction
 
 # Education to show in About widget
 education:
@@ -62,10 +62,10 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/connortwiegand
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/connor-wiegand/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
