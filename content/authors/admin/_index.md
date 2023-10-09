@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 5th Year Economics 
+role: 5th Year Economics PhD at the University of Oregon
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -53,7 +53,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/GTbyCW
     label: Follow me on Twitter
     display:
       header: true
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi there! I am a behavioral economist and game theorist from the University of Oregon. I am currently in my 5th year of the PhD program. 
 {style="text-align: justify;"}
