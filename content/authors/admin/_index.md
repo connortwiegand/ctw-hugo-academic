@@ -67,8 +67,8 @@ social:
     icon_pack: fab
     link: https://twitter.com/GTbyCW
     label: Follow me on Twitter
-    display:
-      header: true
+    # display:
+    #   header: true
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
