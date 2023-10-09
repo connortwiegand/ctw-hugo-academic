@@ -50,7 +50,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:cwiegand@uoregon.edu' #'/#contact'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GTbyCW
@@ -60,6 +60,9 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: fa-orcid
+    icon_pack: fa-brands
+    link: https://orcid.org/0009-0004-3349-3742
   - icon: github
     icon_pack: fab
     link: https://github.com/connortwiegand
