@@ -60,9 +60,21 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: fa-orcid
-    icon_pack: fa-brands
-    link: https://orcid.org/0009-0004-3349-3742
+```HTML
+    <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0009-0004-3349-3742"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0009-0004-3349-3742
+    </a>
+```
   - icon: github
     icon_pack: fab
     link: https://github.com/connortwiegand
