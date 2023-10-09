@@ -81,10 +81,3 @@
   icon = "tumblr"
   enable = false
 
-[[buttons]]
-  id = "orcid"
-  url = ""
-  title = "ORCID"
-  icon_pack = "ai"
-  icon = "orcid"
-  enable = true

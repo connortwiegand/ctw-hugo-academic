@@ -33,15 +33,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD Economics
+      institution: University of Oregon
+      year: Expected 2024
+    - course: M.S. in Economics
+      institution: University of Oregon
+      year: 2020
+    - course: B.S. in Mathematics, Economics
+      institution: University of Washington
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -51,30 +51,30 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:cwiegand@uoregon.edu #'/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GTbyCW
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: google-scholar # `ai::google-scholar` or `fas::graduation-cap`
-    icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=xKz_tl8AAAAJ
-  - icon: orcid
-    icon_pack: ai
-    link: https://orcid.org/0009-0004-3349-3742
   - icon: github
     icon_pack: fab
     link: https://github.com/connortwiegand
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/connor-wiegand/
+  - icon: google-scholar # `ai::google-scholar` or `fas::graduation-cap`
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=xKz_tl8AAAAJ
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0009-0004-3349-3742
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GTbyCW
+    label: Follow me on Twitter
+    display:
+      header: true
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
