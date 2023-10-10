@@ -33,13 +33,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD Economics
+    - course: Ph.D. Economics
       institution: University of Oregon
       year: Expected 2024
     - course: M.S. in Economics
       institution: University of Oregon
       year: 2020
-    - course: B.S. in Mathematics, Economics
+    - course: B.S. in Mathematics and Economics
       institution: University of Washington
       year: 2019
 
